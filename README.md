@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**iamshubhamg/iamshubhamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pleased to meet you 😀
 
 Here are some ideas to get you started:
 
