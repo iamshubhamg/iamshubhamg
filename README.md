@@ -5,7 +5,9 @@
     <td><img src="https://profile-counter.glitch.me/iamshubhamg/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-### Hi I'm Shubham👋  
+
+### Hi I'm Shubham👋 
+
 Engineering student with ability to review plans,write reports,research solutions and implement company procedures. Willingness to learn,ability to follow instructions and work cooperatively within team environments.🎀
 
 [![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshubhamg/)](https://www.linkedin.com/in/iamshubhamg/)
