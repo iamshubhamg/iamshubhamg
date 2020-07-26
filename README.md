@@ -23,7 +23,10 @@ Engineering student with ability to review plans,write reports,research solution
 - 😄 Pronouns:<b>He/him</b>
 - ⚡ Fun fact: <b>Your online reputation and privacy worst enemies are WhatsApp, Snapchat, Instagram, Google, Facebook,and Twitter.</b>
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=iamshubhamg&show_icons=true&theme=radical)
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
+
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=iamshubhamg&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&hide=css&theme=radical)](https://github.com/iamshubhamg/github-readme-stats)
+
 
 ## Find me around the web 🌎:
 - Practicing Coding Skills in <a href="https://www.hackerrank.com/iamshubhamg">HackerRank</a>📹✍🏾
