@@ -6,7 +6,7 @@
   </tr>
 </table>
 
-### Hi I'm Shubham <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">
+### Hi I'm Shubham <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 
 Engineering student with ability to review plans,write reports,research solutions and implement company procedures. Willingness to learn,ability to follow instructions and work cooperatively within team environments.🎀
 
@@ -43,7 +43,7 @@ Engineering student with ability to review plans,write reports,research solution
 ![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=iamshubhamg&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&hide=css&theme=radical)](https://github.com/iamshubhamg/github-readme-stats)
 
 
-## Find me around the web <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px"> :
+## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
 - Practicing Coding Skills in <a href="https://www.hackerrank.com/iamshubhamg">HackerRank</a>📹✍🏾
 - Personal Website <a href="https://iamshubhamg.github.io">Shubham Giri</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/iamshubhamg/">LinkedIn</a> 💼
