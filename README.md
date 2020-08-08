@@ -13,7 +13,7 @@ Engineering student with ability to review plans,write reports,research solution
 [![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshubhamg/)](https://www.linkedin.com/in/iamshubhamg/)
 [![MAIL Badge](https://img.shields.io/badge/-shubhamgiri2000office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamgiri2000office@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
  
-### Pleased to meet you 😀
+### Pleased to meet you <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/tenor.gif" width="29px">
 
 - 🔭 I’m currently working on <b>MERN</b>
 - 🌱 I’m currently learning <b>Data Structures,JS,CSS</b>
