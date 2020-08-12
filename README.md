@@ -42,7 +42,7 @@ Engineering student with ability to review plans,write reports,research solution
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
-![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=iamshubhamg&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&hide=css&theme=radical)](https://github.com/iamshubhamg/github-readme-stats)
+![Shubham's Github Stats](https://github-readme-stats.vercel.app/api?username=iamshubhamg&show_icons=true&theme=radical)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshubhamg&theme=radical)](https://github.com/iamshubhamg/github-readme-stats)
 
 
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
