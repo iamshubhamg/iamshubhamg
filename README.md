@@ -1,3 +1,7 @@
+<a href="https://dev.to/iamshubhamg">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shubham Giri's DEV Profile" height="40" width="40">
+</a>
+
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iamshubhamg/)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 <table>
   <tr>
