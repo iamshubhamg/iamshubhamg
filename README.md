@@ -12,17 +12,16 @@
 
 ### Hi I'm Shubham <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="22">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-Engineering student with ability to review plans,write reports,research solutions and implement company procedures. Willingness to learn,ability to follow instructions and work cooperatively within team environments.🎀
+A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Management practice. I started working on ETRM and handling various clients' problems and tasks, and bugs during my training and working for Value Creed Worked on user-friendly and optimized solutions in the Allegro application to automate and improve business processes.  At Value Creed, I have been working on the design, development, and implementation of the Allegro/ Horizon product which helps to automate the business processes, manage the risk to the market and make complex trading decisions. I worked as a technical expert to develop customizations in CTRM applications. Having a deep understanding of the Energy trade life cycle and carrying a profound knowledge of Business Requirement gathering, Solution Designing, GAP Analysis, Support, and Testing. ​🎀
 
-[![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshubhamg/)](https://www.linkedin.com/in/iamshubhamg/)
-[![MAIL Badge](https://img.shields.io/badge/-shubhamgiri2000office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamgiri2000office@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshubhamg/)](https://www.linkedin.com/in/iamshubhamg/)  [![MAIL Badge](https://img.shields.io/badge/-shubhamgiri2000office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamgiri2000office@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
  
 ### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
-- 🔭 I’m currently working on <b>GOOGLE CLOUD</b>
-- 🌱 I’m currently learning <b>Data Structures,JS,CSS</b>
-- 👯 I’m looking to collaborate on <b>Projects on Python</b>
-- 🤔 I’m looking for help with <b>JavaScript</b>
+- 🔭 I’m currently working on <b>.net Framework</b>
+- 🌱 I’m currently learning <b>C#</b>
+- 👯 I’m looking to collaborate on <b>Projects on ETRM/CTRM </b>
+- 🤔 I’m looking for help with <b>ETRM Business</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns:<b>He/him</b>
 - ⚡ Fun fact: <b>I ❤️ 😻s</b>
