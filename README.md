@@ -1,24 +1,23 @@
 <a href="https://dev.to/iamshubhamg">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shubham Giri's DEV Profile" height="40" width="40">
-</a>
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iamshubhamg/)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/iamshubhamg/count.svg" alt="vistor count" height="50" /></td>
+</a><table><tr>  <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/iamshubhamg/count.svg" alt="vistor count" height="20"></td>
   </tr>
 </table>
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iamshubhamg/)  [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
 
 ### Hi I'm Shubham <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="22">
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Management practice. I started working on ETRM and handling various clients' problems and tasks, and bugs during my training and working for Value Creed Worked on user-friendly and optimized solutions in the Allegro application to automate and improve business processes.  At Value Creed, I have been working on the design, development, and implementation of the Allegro/ Horizon product which helps to automate the business processes, manage the risk to the market and make complex trading decisions. I worked as a technical expert to develop customizations in CTRM applications. Having a deep understanding of the Energy trade life cycle and carrying a profound knowledge of Business Requirement gathering, Solution Designing, GAP Analysis, Support, and Testing. ​🎀
 
 [![Linkedin Badge](https://img.shields.io/badge/-iamshubhamg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamshubhamg/)](https://www.linkedin.com/in/iamshubhamg/)  [![MAIL Badge](https://img.shields.io/badge/-shubhamgiri2000office@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shubhamgiri2000office@gmail.com)](mailto:shubhamgiri2000office@gmail.com)
- 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=iamshubhamg&rank=AA,B,AAA,A,C&theme=onedark&count_private=true" />
+
 ### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
-- 🔭 I’m currently working on <b>.net Framework</b>
+- 🔭 I’m currently working on <b>.NET Framework</b>
 - 🌱 I’m currently learning <b>C#</b>
 - 👯 I’m looking to collaborate on <b>Projects on ETRM/CTRM </b>
 - 🤔 I’m looking for help with <b>ETRM Business</b>
