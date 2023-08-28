@@ -53,7 +53,7 @@ A Technical Consultant in Value Creed LLP’s Commodity Trading and Risk Managem
 
 
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24"> :
-- Practicing Coding Skills in <a href="https://www.hackerrank.com/iamshubhamg">HackerRank</a>📹✍🏾
+- Practicing Coding Skills in <a href="https://leetcode.com/iamshubhamg/">Leet Code </a>& <a href="https://www.hackerrank.com/iamshubhamg">HackerRank</a> 📹✍🏾
 - Personal Website <a href="https://iamshubhamg.github.io">Shubham Giri</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/iamshubhamg/">LinkedIn</a> 💼
 - My Social Life <a href="https://www.instagram.com/shuubhaammm">Instagram</a> 💞
