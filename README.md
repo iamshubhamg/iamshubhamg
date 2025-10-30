@@ -1,9 +1,6 @@
 <a href="https://dev.to/iamshubhamg">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Shubham Giri's DEV Profile" height="40" width="40">
-</a><table><tr>  <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/iamshubhamg/count.svg" alt="vistor count" height="20"></td>
-  </tr>
-</table>
+
 
 [![ForTheBadge built-with-love](https://madewithlove.now.sh/af?heart=true&template=for-the-badge&text=India)](https://GitHub.com/iamshubhamg/) 
 
